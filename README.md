@@ -6,7 +6,7 @@ width="100%">
 
 ## Projeto💻
 
-Esse é um projeto comparado ao jogo quiz de perguntas relacionado as pergutas de JavaScript
+Esse é um projeto comparado ao jogo quiz de perguntas relacionado ao JavaScript
 
 ## Tecnologias🚀
 
